@@ -1,16 +1,16 @@
 {
   "name": "@cndavid/empty-npm-package",
-  "version": "1.1.0",
+  "version": "1.1.4",
   "description": "learn release npm package",
   "type": "module",
-  "main": "lib/index.cjs.js",
+  "main": "lib/index.cjs",
   "exports": {
     "import": {
       "default": "./lib/index.esm.js",
       "types": "./lib/types/index.d.ts"
     },
     "require": {
-      "default": "./lib/index.cjs.js",
+      "default": "./lib/index.cjs",
       "types": "./lib/types/index.d.ts"
     }
   },
