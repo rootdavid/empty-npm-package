@@ -22,7 +22,8 @@
     "url": "git+https://github.com/rootdavid/empty-npm-package.git"
   },
   "scripts": {
-    "build": "rollup -c"
+    "build": "rollup -c",
+    "release-package": "npm run build && npx changeset publish"
   },
   "keywords": [
     "empty package",
