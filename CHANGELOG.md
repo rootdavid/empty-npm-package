@@ -1,5 +1,11 @@
 # @cndavid/empty-npm-package
 
+## 2.0.0
+
+### Major Changes
+
+- 4bcd67f: created goodcat feature
+
 ## 2.0.0-alpha.0
 
 ### Major Changes
