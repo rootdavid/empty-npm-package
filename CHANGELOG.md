@@ -1,5 +1,11 @@
 # @cndavid/empty-npm-package
 
+## 3.0.0-alpha.0
+
+### Major Changes
+
+- 0586cfe: created output text feature
+
 ## 2.0.0
 
 ### Major Changes
