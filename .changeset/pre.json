@@ -1,0 +1,10 @@
+{
+  "mode": "exit",
+  "tag": "alpha",
+  "initialVersions": {
+    "@cndavid/empty-npm-package": "1.4.0"
+  },
+  "changesets": [
+    "strict-shirts-relate"
+  ]
+}
