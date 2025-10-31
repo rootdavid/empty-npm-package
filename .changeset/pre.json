@@ -1,0 +1,11 @@
+{
+  "mode": "exit",
+  "tag": "beta",
+  "initialVersions": {
+    "@cndavid/empty-npm-package": "2.0.0"
+  },
+  "changesets": [
+    "big-facts-add",
+    "pretty-facts-yell"
+  ]
+}

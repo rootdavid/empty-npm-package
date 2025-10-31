@@ -4,3 +4,5 @@ export { goodEvening } from "./GoodEvening";
 export { goodNight } from "./GoodNight";
 export { isGood } from "./IsGood";
 export { goodCat } from "./GoodCat";
+export { output } from "./Output";
+export { print } from "./PrintX";
