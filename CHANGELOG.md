@@ -1,5 +1,11 @@
 # @cndavid/empty-npm-package
 
+## 2.0.1
+
+### Patch Changes
+
+- 63aede9: change goodNight file method
+
 ## 2.0.0
 
 ### Major Changes
