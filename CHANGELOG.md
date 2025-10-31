@@ -1,5 +1,11 @@
 # @cndavid/empty-npm-package
 
+## 3.0.0-beta.1
+
+### Major Changes
+
+- 8e28aa4: added print x method
+
 ## 3.0.0-alpha.0
 
 ### Major Changes
