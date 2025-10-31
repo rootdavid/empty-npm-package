@@ -1,0 +1,8 @@
+{
+  "mode": "pre",
+  "tag": "alpha",
+  "initialVersions": {
+    "@cndavid/empty-npm-package": "1.4.0"
+  },
+  "changesets": []
+}
