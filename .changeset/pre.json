@@ -1,10 +1,8 @@
 {
   "mode": "pre",
-  "tag": "alpha",
+  "tag": "beta",
   "initialVersions": {
     "@cndavid/empty-npm-package": "2.0.0"
   },
-  "changesets": [
-    "pretty-facts-yell"
-  ]
+  "changesets": ["pretty-facts-yell"]
 }
