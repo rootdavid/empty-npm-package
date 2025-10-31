@@ -4,5 +4,8 @@
   "initialVersions": {
     "@cndavid/empty-npm-package": "2.0.0"
   },
-  "changesets": ["pretty-facts-yell"]
+  "changesets": [
+    "big-facts-add",
+    "pretty-facts-yell"
+  ]
 }
