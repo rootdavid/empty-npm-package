@@ -4,5 +4,7 @@
   "initialVersions": {
     "@cndavid/empty-npm-package": "1.4.0"
   },
-  "changesets": []
+  "changesets": [
+    "strict-shirts-relate"
+  ]
 }
